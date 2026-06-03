@@ -4,14 +4,12 @@
 A beginner-friendly **Python Web Scraper** that extracts all `<h2>` headings from any website and saves them into a CSV file.
 
 ---
-
 ## ✨ Features
 
 - 🔹 Takes website URL as input  
 - 🔹 Extracts all `<h2>` headings  
 - 🔹 Saves data into a CSV file  
 - 🔹 Simple and easy to understand  
-
 ---
 
 ## 🛠️ Technologies Used
@@ -20,7 +18,6 @@ A beginner-friendly **Python Web Scraper** that extracts all `<h2>` headings fro
 - requests  
 - BeautifulSoup (bs4)  
 - csv  
-
 ---
 
 ## 🚀 How to Run
@@ -37,7 +34,6 @@ pip install beautifulsoup4
 ```bash
 python scraper.py
 ```
-
 ---
 
 ## 📌 Purpose of This Project
