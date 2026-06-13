@@ -11,15 +11,12 @@ A beginner-friendly **Python Web Scraper** that extracts all `<h2>` headings fro
 - 🔹 Saves data into a CSV file  
 - 🔹 Simple and easy to understand  
 ---
-
 ## 🛠️ Technologies Used
-
 - Python  
 - requests  
 - BeautifulSoup (bs4)  
 - csv  
 ---
-
 ## 🚀 How to Run
 
 ### 1️⃣ Install Required Libraries
