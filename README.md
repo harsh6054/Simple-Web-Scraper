@@ -25,9 +25,7 @@ A beginner-friendly **Python Web Scraper** that extracts all `<h2>` headings fro
 pip install requests
 pip install beautifulsoup4
 ```
-
 ### 2️⃣ Run the Script
-
 ```bash
 python scraper.py
 ```
