@@ -18,9 +18,7 @@ A beginner-friendly **Python Web Scraper** that extracts all `<h2>` headings fro
 - csv  
 ---
 ## 🚀 How to Run
-
 ### 1️⃣ Install Required Libraries
-
 ```bash
 pip install requests
 pip install beautifulsoup4
@@ -30,7 +28,6 @@ pip install beautifulsoup4
 python scraper.py
 ```
 ---
-
 ## 📌 Purpose of This Project
 
 ✔ Beginner-friendly practice project  
