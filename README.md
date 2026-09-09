@@ -29,11 +29,9 @@ python scraper.py
 ```
 ---
 ## 📌 Purpose of This Project
-
 ✔ Beginner-friendly practice project  
 ✔ Helps understand web scraping basics  
 ✔ Useful for collecting blog titles or article headings  
-
 ---
 
 
